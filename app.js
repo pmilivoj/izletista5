@@ -2,7 +2,7 @@ if (process.env.NODE_ENV !== "production") {
     require('dotenv').config();
 }
 //require('dotenv').config();
-//MAPBOX_TOKEN=pk.eyJ1IjoibWlsaXZvaiIsImEiOiJjbDJnZndic3owM28yM2txd2N2MTZiams2In0.N9JX-CQXrzGmk5yXV1UK3w
+MAPBOX_TOKEN=pk.eyJ1IjoibWlsaXZvaiIsImEiOiJjbDJnZndic3owM28yM2txd2N2MTZiams2In0.N9JX-CQXrzGmk5yXV1UK3w
 //CLOUDINARY_KEY=971231556251264
 //wnblzx1HQOYTOG8L
 //const uri = process.env.ATLAS_URI;
